@@ -2,7 +2,6 @@
 .settings/
 .eunit/
 _build/
-ebin/
 *~
 */*~
 #*#

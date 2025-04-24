@@ -1,0 +1,17 @@
+{name,"edown"}.
+{type,lib}.
+{modules,[]}.
+{prefix,none}.
+{desc,"Markdown extension for edoc"}.
+{author,"Ulf Wiger"}.
+{package_id,{"uwiger","edown",{0,9,1}}}.
+{deps,[]}.
+{key_name,none}.
+{a_email,"ulf@wiger.net"}.
+{c_email,"ulf@wiger.net"}.
+{copyright,"Ulf Wiger"}.
+{file_exts,[]}.
+{license,"Apache-2.0"}.
+{repo_url,"https://github.com/uwiger/edown"}.
+{tags,[]}.
+{ws_url,[]}.
